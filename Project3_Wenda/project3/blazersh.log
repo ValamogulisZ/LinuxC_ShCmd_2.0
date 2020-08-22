@@ -1,0 +1,102 @@
+ls < inputfile
+ls > outputfile
+cat outputfile
+quit
+ls
+quit
+quit
+quti
+ls
+ls > outputfile
+ls
+quit
+quit
+./myprog < inputfile > outputfile
+cat outputfile
+cat inputfile
+quit
+./myprog < inputfile > outputfile
+ls
+quit
+./myprog < inputfile > outputfile
+quit
+./myprog < inputfile > ooutputfile
+quit
+./myprog < inputfile > outputfile
+quit
+./hw2.c
+quit
+ls -l
+ls -l
+ls -l *.c
+quit
+ls
+quit
+ls
+ls -l
+ls -l *.c
+quit
+ls
+ls -l
+ls
+ls -l
+ls -l *c
+ls -l *.c
+quit
+ls
+ls -l
+ls -l *.c
+quit
+ls
+ls -l
+ls -l *.c
+./myprog < inputfile > outputfile
+quit
+ls
+ls
+ls
+quit
+ls
+hostname
+jobs
+./myprog
+ls
+jobs
+ls
+
+ls
+jobs
+
+
+
+
+
+
+
+
+ls
+continue
+jobs
+quit
+ls
+continue 29405
+history
+quit
+quit
+quit
+ls
+quit
+./myprog
+ls
+jobs
+./myprog
+ls
+./myprog
+jobs
+continue 30649
+history
+quit
+./myprog
+./myprog
+./myprog
+./myprog
