@@ -1,8 +1,6 @@
-## Name: Wenda Zhao
+# Shell Command With Process Management
 
-## Blazerid: wenda
-
-## Project #: 3
+# Author: Wenda Zhao
 
 #blazersh
 
