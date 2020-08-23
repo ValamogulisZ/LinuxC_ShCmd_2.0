@@ -53,6 +53,3 @@ blazersh.log
 To show the input history, enter: 
 history
 
-## Contributing
-
-Code of Labs (execvp.c, signal.c and iorederict.c)
